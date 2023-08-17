@@ -1,3 +1,5 @@
-Hi there! Check out my portfolio at [acardosi.dev](https://acardosi.dev)
+💻  **My Projects** 👉 [acardosi.dev/projects](https://acardosi.dev/projects)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=adcar&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+📋 **My Résumé** 👉 [acardosi.dev/resume](https://acardosi.dev/resume)
+
+📱 **Get in Touch** 👉 [acardosi.dev/contact](https://acardosi.dev/contact)
